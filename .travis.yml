@@ -106,7 +106,7 @@ before_install:
       AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY_PROD;
       S3_BUCKET='bucket-weiting104';
       CODEDEPLOY_APP='app-demo';
-      CODEDEPLOY_GROUP='ec2';
+      CODEDEPLOY_GROUP='ec2 ';
     fi
 
 
