@@ -102,8 +102,8 @@ before_install:
   - if [[ $TRAVIS_BRANCH == "master" ]]; then
       AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID_PROD;
       AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY_PROD;
-      S3_BUCKET='bucket-weiting104';
-      CODEDEPLOY_APP='app-demo';
+      S3_BUCKET='bucket0117-weiting';
+      CODEDEPLOY_APP='stack0117-EC2-CodeDeploy';
       CODEDEPLOY_GROUP='ec2';
     fi
 
