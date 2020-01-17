@@ -54,7 +54,7 @@ notifications:
   email:
     on_failure: always
     on_success: never
-  #slack:
+  slack:
     rooms:
     - secure: "kXkN3jphexFgHnD71P0yuCCup95ZrzpQlF73FlicSZoJpbCW59bwrWLCMhu3MN6osXEQOl2aeT/LthVwoRwWY2k7EKDkw9sXCVf2PMc+0rWEH4omAORqNKBB1Ja3OugtzXx99LRu5bwYYwNPe4qfq+cp6HAV98yqrz7hK/Nxk+n4KmH2pl1SXVBIFYBKobfoEuwfugK8F5MnMvN7kqzQJC3jqfyVgovJEEcqZ7owUN6CBFEhtzPwosBDNpdCNCGHvhq5H8clRNBtKu5lP/hM2QaD1NLXrZ0vH/pKH5EvxK7xGv/9NRgbNgYednV/pi7Oat9oEVHg1eFqtFpSBXWrvwoyJNNbvQWPSkLNV0ge2VhWspuwUYY8fbKLnpCZevxyEm91jCvNgq8xo2cs8ECIkyEIW5dr+f1fj8VJCQhBOOxfBssgg021zItPmjZo24v7Gmm1+leN5y6z5pvQH2696V6B10ccRSRmX/VouX9unwDQU+IqjtSfLJhIhUnaMIHnIiNLk2Xuk3nfTtyZxvEMkwUnSLpAwlpuE/JO04LUDeBhEhWCOe3Q6Di0sZwo+k+fHDjDsHEKFOFCfejXAFNGcgMgX6zx80hlyPd/cA+ctkoox966noCdfgENzdv91xsrVEldaa7+qieu0kjyvan6nEpTkv86XmDFdeBCkBhRdus="
 
